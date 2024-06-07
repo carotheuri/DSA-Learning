@@ -1,5 +1,10 @@
 com\mycompany\app\datastructures\LinkedList.class
-com\mycompany\app\App.class
+com\mycompany\app\datastructures\BinaryTree$Node.class
+com\mycompany\app\datastructures\BinaryTree.class
 com\mycompany\app\Patterns\twoPointers\ValidPalindrome.class
+com\mycompany\app\datastructures\Queues.class
+com\mycompany\app\App.class
+com\mycompany\app\datastructures\Queues$Node.class
+com\mycompany\app\datastructures\HashTable.class
 com\mycompany\app\datastructures\LinkedList$Node.class
 com\mycompany\app\Patterns\sumOfThreeValues.class

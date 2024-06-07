@@ -1,9 +1,8 @@
 package com.mycompany.app.datastructures;
 
+import com.mycompany.app.datastructures.LinkedList.LinkedList;
 import org.junit.Assert;
 import org.junit.Test;
-
-import static org.junit.Assert.*;
 
 public class LinkedListTest {
     private LinkedList linkedList = new LinkedList();

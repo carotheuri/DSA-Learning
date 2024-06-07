@@ -1,4 +1,4 @@
-package com.mycompany.app.datastructures;
+package com.mycompany.app.datastructures.LinkedList;
 public class LinkedList {
 
     private class Node {
